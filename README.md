@@ -69,5 +69,4 @@ npm run test
 * SASS
 * Jest + Enzyme
 
-#### The MIT License (MIT)
-MIT © 2018 Santhosh Sundar
+
